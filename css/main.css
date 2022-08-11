@@ -11,8 +11,9 @@ html {
 body {
   margin: 0;
   background-color: #bebebe;
-  color: #323232;
+  color:#323232;
 }
+
 header {
   display: grid;
   grid-template-columns: auto 10rem auto;
