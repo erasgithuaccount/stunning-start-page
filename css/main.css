@@ -5,7 +5,7 @@ html {
 }
 
 *, *::before, *::after {
-  box-sizing:inherit;
+  box-sizing: inherit;
 }
 
 body {
@@ -13,7 +13,6 @@ body {
   background-color: #bebebe;
   color: #323232;
 }
-
 header {
   display: grid;
   grid-template-columns: auto 10rem auto;
